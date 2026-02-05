@@ -33,4 +33,4 @@ pytest -v
 
 ## Пример 
 python main.py --files data/economic1.csv --report average-gdp
-![img.png](img.png)
+<img width="874" height="379" alt="image" src="https://github.com/user-attachments/assets/e60a7e45-9765-46f6-8f00-3e5cccf91a1d" />
